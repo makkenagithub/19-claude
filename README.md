@@ -32,6 +32,9 @@ and shared files to find the context you need for better responses and research.
 
 
 
+Claude has 2 models
 
+1. Opus - for most complex tasks
+2. Sonnet - for everyday tasks
 
 
