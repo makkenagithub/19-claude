@@ -38,3 +38,24 @@ Claude has 2 models
 2. Sonnet - for everyday tasks
 
 
+
+Before your next conversation with Claude, consider: setting the stage (your role, objectives, and context), 
+defining the task (what action you want Claude to take), and specifying rules (style, tone, and examples).
+
+1. Setting the stage: What is your role and what are your objectives? Is there context about your work that Claude should know about?
+2. Defining the task: What action do you want Claude to take? Do you want Claude to write, analyze, build, or something else?
+3. Specifying rules: What's the style or tone you want Claude to use? Are there examples that you can attach to show Claude what you're looking for?
+
+Some practical ways to use file uploads:
+
+Upload a document and ask Claude to summarize the key points
+
+Share an image and ask Claude to describe or analyze what it sees
+
+Attach a spreadsheet and ask Claude to identify trends in the data
+
+Upload code and ask Claude to explain how it works or find bugs
+
+
+
+
