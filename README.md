@@ -29,3 +29,9 @@ and shared files to find the context you need for better responses and research.
 
 4. Claude for Excel: lets you work directly with Claude in a sidebar in Microsoft Excel, where Claude can read, analyze, modify, and create new Excel workbooks.
  Claude for Excel is best for model analysis, assumption updates, error debugging, template population, formula explanations, and multi-tab navigation.
+
+
+
+
+
+
